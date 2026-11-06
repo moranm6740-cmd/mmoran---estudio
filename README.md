@@ -1,4 +1,4 @@
-5. Resumen y Documentación Técnica
+Resumen y Documentación Técnica
 Semántica HTML5: Se emplearon elementos estructurales nativos (<header>, <nav>, <main>, <section>, <article>, <footer>) para optimizar el SEO técnico y la accesibilidad (lectores de pantalla).
 
 Distribución de Layout (CSS):
